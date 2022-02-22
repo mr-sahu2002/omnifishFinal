@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Rohu, 1kg",
+        "price": 250,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/rohu.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Surmai, 500g",
+        "price": 180,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/surmai.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Rawas, 500g",
+        "price": 200,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/rawas.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Catla, 500g",
+        "price": 300,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/Catla.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Paplet, 500g",
+        "price": 400,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/paplet.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Bangda, 1kg",
+        "price": 300,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/Bangda.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Singhara, 1kg",
+        "price": 360,
+        "image": { "fields": { "file": { "url": "Resource/img/fish/Singhara.jpeg" } } }
+      }
+    }
+  ]
+}
